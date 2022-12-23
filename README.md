@@ -42,8 +42,6 @@ me = AutomationEngineer()
 me.say_hi()
 ```
 
----
-
 ## Stats
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=fmoradev&show_icons=true&theme=dark)
