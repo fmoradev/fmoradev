@@ -13,7 +13,7 @@ I also have a blog where I publish things related to GNU/Linux 🐧 and automati
 
 ---
 
-# My Skills
+## My Skills
 
 ```python
 #!/usr/bin/python
@@ -42,7 +42,8 @@ me = AutomationEngineer()
 me.say_hi()
 ```
 
-# Stats
+---
 
+## Stats
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=fmoradev&show_icons=true&theme=dark)
