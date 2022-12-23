@@ -13,8 +13,13 @@ class AutomationEngineer:
         self.name = "Francisco Mora"
         self.role = "QA Automation Engineer"
         self.language_spoken = ["es_CL", "en_US"]
-        self.languages = ["Java", "Python", "Javascript"]
-        self.frameworks = ["WebDriverIO", "TestNG", "PyTest"]
+        self.languages = ["Java", "Javascript"]
+        self.frameworks = ["WebDriverIO", "TestNG", "Rest Assured"]
+        self.databases = ["MySQL", "Oracle", "MongoDB"]
+        self.clouds = ["Azure", "AWS"]
+        self.control_version = ["GIT"] 
+        self.tools = ["Jira", "Microsoft Test Manager", "Jenkins"]
+        self.apis = ["Postman", "SOAP-UI"]
         
 
     def say_hi(self):
