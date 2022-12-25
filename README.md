@@ -9,7 +9,7 @@ Some of my skills are, quickly learning new skills and tools, problem solving, p
 
 I also have a blog where I publish things related to GNU/Linux 🐧 and automation. There's a real person behind this profile, too! In my free time you might find me doing sports like running 🏃🏽 or play chess ♛.
 
-Follow me on:
+Follow me:
 
 ![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)
 ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
