@@ -2,6 +2,7 @@
 
 ![GitHub followers](https://img.shields.io/github/followers/fmoradev?style=social)
 ![Twitter Follow](https://img.shields.io/twitter/follow/fmoradev?style=social)
+![Profile Counts](https://komarev.com/ghpvc/?username=fmoradev&color=orange)
 
 I'm an IT professional with more than 15 years of experience. I've worked in industries such as Insurance, Public Sector, StarUps, Retail, Telecomunication and Banking. I have experience in 🌐 Web and API Test Automation working with both on-premise and cloud environments.
 
@@ -51,3 +52,4 @@ me.say_hi()
 ## Stats
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=fmoradev&show_icons=true&theme=dark)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1&theme=dark)](https://git.io/streak-stats)
