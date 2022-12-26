@@ -12,7 +12,7 @@ I also have a blog where I publish things related to GNU/Linux 🐧 and automati
 
 Follow me:
 
-[![Twitter][1.1][1]
+[![Twitter][1.1]][1]
 ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 ![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
