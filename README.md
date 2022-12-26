@@ -12,7 +12,7 @@ I also have a blog where I publish things related to GNU/Linux 🐧 and automati
 
 Follow me:
 
-![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)
+![Twitter][1.1][1]
 ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 ![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
@@ -53,3 +53,9 @@ me.say_hi()
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=fmoradev&show_icons=true&theme=dark)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=fmoradev&theme=dark)](https://git.io/streak-stats)
+
+<!-- links to social media icons -->
+[1.1]: https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white
+
+<!-- links to your social media accounts -->
+[1]: https://twitter.com/fmoradev
