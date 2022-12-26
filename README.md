@@ -13,10 +13,8 @@ I also have a blog where I publish things related to GNU/Linux 🐧 and automati
 Follow me:
 
 [![Twitter][1.1]][1]
-![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
-![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
-![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
+[![LinkedIn][2.1]][2]
+[![Discord][3.1]][3]
 
 ---
 
@@ -56,6 +54,10 @@ me.say_hi()
 
 <!-- links to social media icons -->
 [1.1]: https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white
+[2.1]: https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white
+[3.1]: https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white
 
 <!-- links to your social media accounts -->
 [1]: https://twitter.com/fmoradev
+[2]: https://www.linkedin.com/in/franciscomoradev
+[3]: https://discord.com/users/1052685602744717336
