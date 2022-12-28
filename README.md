@@ -30,8 +30,8 @@ class AutomationEngineer:
         self.name = "Francisco Mora"
         self.role = "QA Automation Engineer"
         self.language_spoken = ["es_CL", "en_US"]
-        self.languages = ["Java", "Javascript"]
-        self.frameworks = ["WebDriverIO", "TestNG", "Rest Assured"]
+        self.languages = ["Java", "Javascript", "Python"]
+        self.frameworks = ["WebDriverIO", "TestNG", "Rest Assured", "PyTest"]
         self.databases = ["MySQL", "Oracle", "MongoDB"]
         self.clouds = ["Azure", "AWS"]
         self.control_version = ["GIT"] 
