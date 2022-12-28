@@ -35,12 +35,13 @@ class AutomationEngineer:
         self.databases = ["MySQL", "Oracle", "MongoDB"]
         self.clouds = ["Azure", "AWS"]
         self.control_version = ["GIT"] 
-        self.tools = ["Jira", "Microsoft Test Manager", "Jenkins"]
+        self.tools = ["Jira", "Microsoft Test Manager"]
         self.apis = ["Postman", "SOAP-UI"]
+        self.ci_cd = ["Jenkins"]
         
 
     def say_hi(self):
-        print("Thanks for dropping by, hope you find some of my work interesting.")
+        print("Thanks for see my profile, hope you find some of my work interesting.")
 
 
 me = AutomationEngineer()
