@@ -16,6 +16,7 @@ Follow me:
 [![Twitter][1.1]][1]
 [![LinkedIn][2.1]][2]
 [![Discord][3.1]][3]
+[![Mastodon][4.1]][4]
 
 ---
 
@@ -58,8 +59,10 @@ me.say_hi()
 [1.1]: https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white
 [2.1]: https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white
 [3.1]: https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white
+[4.1]: https://img.shields.io/badge/-MASTODON-%232B90D9?style=for-the-badge&logo=mastodon&logoColor=white
 
 <!-- links to your social media accounts -->
 [1]: https://twitter.com/fmoradev
 [2]: https://www.linkedin.com/in/franciscomoradev
 [3]: https://discord.com/users/1052685602744717336
+[4]: https://fosstodon.org/@fmoradev
