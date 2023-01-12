@@ -34,11 +34,11 @@ class AutomationEngineer:
         self.language_spoken = ["es_CL", "en_US"]
         self.languages = ["Java", "Javascript", "Python"]
         self.frameworks = ["WebDriverIO", "TestNG", "Rest Assured", "PyTest"]
-        self.databases = ["MySQL", "Oracle", "MongoDB"]
+        self.databases = ["MySQL", "Oracle", "MongoDB", "PostgreSQL"]
         self.clouds = ["Azure", "AWS"]
         self.control_version = ["GIT"] 
-        self.tools = ["Jira", "Microsoft Test Manager"]
-        self.apis = ["Postman", "SOAP-UI"]
+        self.tools = ["Jira", "Microsoft Test Manager", "GitHub", "GitLab"]
+        self.apis = ["Postman", "SOAP UI"]
         self.ci_cd = ["Jenkins"]
         
 
