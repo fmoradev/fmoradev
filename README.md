@@ -62,7 +62,7 @@ me.say_hi()
 [4.1]: https://img.shields.io/badge/-MASTODON-%232B90D9?style=for-the-badge&logo=mastodon&logoColor=white
 
 <!-- links to your social media accounts -->
-[1]: https://twitter.com/fmoradev
+[1]: https://twitter.com/huasodev
 [2]: https://www.linkedin.com/in/franciscomoradev
 [3]: https://discord.com/users/1052685602744717336
 [4]: https://fosstodon.org/@fmoradev
