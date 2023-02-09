@@ -1,6 +1,5 @@
 # Hello World 👋
 
-![GitHub followers](https://img.shields.io/github/followers/fmoradev?style=social)
 ![Twitter Follow](https://img.shields.io/twitter/follow/fmoradev?style=social)
 ![Mastodon Follow](https://img.shields.io/mastodon/follow/109835019801328172?domain=https%3A%2F%2Fchilemasto.casa&style=social)
 ![Profile Counts](https://komarev.com/ghpvc/?username=fmoradev&color=orange)
