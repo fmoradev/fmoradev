@@ -2,7 +2,7 @@
 
 ![GitHub followers](https://img.shields.io/github/followers/fmoradev?style=social)
 ![Twitter Follow](https://img.shields.io/twitter/follow/fmoradev?style=social)
-![Mastodon Follow](https://img.shields.io/mastodon/follow/109626058710297140?domain=https%3A%2F%2Fchilemasto.casa%2F&style=social)
+![Mastodon Follow](https://img.shields.io/mastodon/follow/109835019801328172?domain=https%3A%2F%2Fchilemasto.casa&style=social)
 ![Profile Counts](https://komarev.com/ghpvc/?username=fmoradev&color=orange)
 
 I'm an IT professional with more than 15 years of experience. I've worked in industries such as Insurance, Public Sector, StarUps, Retail, Telecomunication and Banking. I have experience in 🌐 Web and API Test Automation working with both on-premise and cloud environments.
