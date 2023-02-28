@@ -36,7 +36,7 @@ class AutomationEngineer:
         self.databases = ["MySQL", "Oracle", "MongoDB", "PostgreSQL"]
         self.clouds = ["Azure", "AWS"]
         self.control_version = ["GIT"] 
-        self.tools = ["Jira", "Microsoft Test Manager", "GitHub", "GitLab"]
+        self.tools = ["Jira", "Microsoft Test Manager", "Mantis", "TestLink", "Gherkin"]
         self.apis = ["Postman", "SOAP UI"]
         self.ci_cd = ["Jenkins", "GitHub Actions", "GitLab Pipelines"]
         
