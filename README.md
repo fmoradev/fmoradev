@@ -38,7 +38,7 @@ class AutomationEngineer:
         self.control_version = ["GIT"] 
         self.tools = ["Jira", "Microsoft Test Manager", "GitHub", "GitLab"]
         self.apis = ["Postman", "SOAP UI"]
-        self.ci_cd = ["Jenkins"]
+        self.ci_cd = ["Jenkins", "GitHub Actions", "GitLab Pipelines"]
         
 
     def say_hi(self):
